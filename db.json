@@ -238,7 +238,7 @@
 		},
 		{
 			"id" : 40,
-			"name" : "Unt de arahide",
+			"name" : "Unt de nuci",
 			"en_name" : "Nut Butters",
 			"foodTypeId" : 6
 		},
@@ -349,6 +349,132 @@
 			"name" : "Supa de vita",
 			"en_name" : "Beef broth",
 			"foodTypeId" : 6
+		},
+		{
+			"id" : 59,
+			"name" : "Avocado",
+			"en_name" : "Avocado",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 60,
+			"name" : "Unt limpezit",
+			"en_name" : "Clarified butter",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 61,
+			"name" : "Ghee",
+			"en_name" : "Ghee",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 62,
+			"name" : "Ulei din nuca de Macadamia",
+			"en_name" : "Macadamia Nut Oil",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 63,
+			"name" : "Ulei de masline",
+			"en_name" : "Olive Oil",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 64,
+			"name" : "Unt de arahide",
+			"en_name" : "Peanut Butter",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 65,
+			"name" : "Unt de migdale",
+			"en_name" : "Almond Butter",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 66,
+			"name" : "Unt de caju",
+			"en_name" : "Cashew Butter",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 67,
+			"name" : "Migdale",
+			"en_name" : "Almonds",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 68,
+			"name" : "Nuci braziliene",
+			"en_name" : "Brazil Nuts",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 69,
+			"name" : "Alune de padure",
+			"en_name" : "Hazelnuts",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 70,
+			"name" : "Semințe de cânepă",
+			"en_name" : "Hempseeds",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 71,
+			"name" : "Nuci de macadamia",
+			"en_name" : "Macadamias",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 72,
+			"name" : "Nuci pecan",
+			"en_name" : "Pecans",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 73,
+			"name" : "Pin negru",
+			"en_name" : "Pine Nuts",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 74,
+			"name" : "Fistic",
+			"en_name" : "Pistachios",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 75,
+			"name" : "Seminte de dovleac",
+			"en_name" : "Pumpkin seeds",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 76,
+			"name" : "Seminte de susan",
+			"en_name" : "Sesame Seeds",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 77,
+			"name" : "Seminte de floarea soarelui",
+			"en_name" : "Sunflower Seeds",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 78,
+			"name" : "Nuci",
+			"en_name" : "Walnuts",
+			"foodTypeId" : 4
+		},
+		{
+			"id" : 79,
+			"name" : "Caju",
+			"en_name" : "Cashews",
+			"foodTypeId" : 4
 		}			
 	], 
 	"foodTypes" : [
