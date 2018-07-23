@@ -181,7 +181,64 @@
 			"name" : "Curcan",
 			"en_name" : "Turkey",
 			"foodTypeId" : 1
-		}		
+		},
+		{
+			"id" : 31,
+			"name" : "Fasole neagra",
+			"en_name" : "Black beans",
+			"foodTypeId" : 3
+		},
+		{
+			"id" : 32,
+			"name" : "Mazare Blackeyed",
+			"en_name" : "Blackeyed Peas",
+			"foodTypeId" : 3
+		},
+		{
+			"id" : 33,
+			"name" : "Fasole cannellini",
+			"en_name" : "Cannellini Beans",
+			"foodTypeId" : 3			
+		},
+		{
+			"id" : 34,
+			"name" : "Fasole Great Northern",
+			"en_name" : "Great Northern Beans",
+			"foodTypeId" : 3
+		},
+		{
+			"id" : 35,
+			"name" : "Fasole kidney",
+			"en_name" : "Kidney Beans",
+			"foodTypeId" : 3
+		},
+		{
+			"id" : 36,
+			"name" : "Linte",
+			"en_name" : "Lentils",
+			"foodTypeId" : 3
+		},
+		{
+			"id" : 37,
+			"name" : "Fasole",
+			"en_name" : "Navy Beans",
+			"foodTypeId" : 3
+		},
+		{
+			"id" : 38,
+			"name" : "Fasole Pinto",
+			"en_name" : "Pinto beans",
+			"foodTypeId" : 3
+		},
+		{
+			"id" : 39,
+			"name" : "Fasole rosie",
+			"en_name" : "Red Beans",
+			"foodTypeId" : 3
+		}
+		
+		
+		
 	], 
 	"foodTypes" : [
 		{
