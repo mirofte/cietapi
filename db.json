@@ -1,0 +1,220 @@
+{
+  "foods": [
+		{
+			 "id": 1,
+			 "name": "Ansoa",
+			 "en_name": "Anchovies",
+			 "foodTypeId": 1,
+			 "image": "https://assets.marthastewart.com/styles/wmax-1500/d28/pan-fried-anchovies-ay4a3354/pan-fried-anchovies-ay4a3354_horiz.jpg?itok=wb_4WLRy"
+		},
+		{
+			"id" : 2,
+			"name" : "Biban",
+			"en_name" : "Bass",
+			"foodTypeId" : 1	
+		},
+		{
+			"id" : 3,
+			"name" : "Vita",
+			"en_name" : "Beef",
+			"foodTypeId" : 1	
+		},
+		{
+			"id" : 4,
+			"name" : "Maduva osoasa",
+			"en_name" : "Bone Marrow",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 5,
+			"name" : "Pui",
+			"en_name" : "Chicken",
+			"foodTypeId" : 1
+		},
+		{	
+			"id" : 6,
+			"name" : "Cod",
+			"en_name" : "Cod",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 7,
+			"name" : "Tipar",
+			"en_name" : "Eel",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 8,
+			"name" : "Oua",
+			"en_name" : "Eggs",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 9,
+			"name" : "Capra",
+			"en_name" : "Goat",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 10,
+			"name" : "Eglefin",
+			"en_name" : "Haddock",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 11,
+			"name" : "Halibut",
+			"en_name" : "Halibut",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 12,
+			"name" : "Inima",
+			"en_name" : "Hearts",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 13,
+			"name" : "Hering",
+			"en_name" : "Herring",
+			"foodTypeId" : 1
+		},
+		{	
+			"id" : 14,
+			"name" : "Rinichi",
+			"en_name" : "Kidney",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 15,
+			"name" : "Miel",
+			"en_name" : "Lamb",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 16,
+			"name" : "Ficat",
+			"en_name" : "Liver",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 17,
+			"name" : "Macrou",
+			"en_name" : "Mackerel",
+			"foodTypeId" : 1
+			
+		},
+		{
+			"id" : 18,
+			"name" : "Mahi Mahi",
+			"en_name" : "Mahi Mahi",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 19,
+			"name" : "Biban",
+			"en_name" : "Perch",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 20,
+			"name" : "Porc",
+			"en_name" : "Pork",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 21,
+			"name" : "Peste lutjanus",
+			"en_name" : "Red Snapper",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 22,
+			"name" : "Rockfish",
+			"en_name" : "Rockfish",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 23,
+			"name" : "Somon",
+			"en_name" : "Salmon",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 24,
+			"name" : "Sardine",
+			"en_name" : "Sardines",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 25,
+			"name" : "Crustacee",
+			"en_name" : "Shellfish",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 26,
+			"name" : "Momita",
+			"en_name" : "Sweetbreads",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 27,
+			"name" : "Tilapia",
+			"en_name" : "Tilapia",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 28,
+			"name" : "Limba",
+			"en_name" : "Tongue",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 29,
+			"name" : "Ton",
+			"en_name" : "Tuna",
+			"foodTypeId" : 1
+		},
+		{
+			"id" : 30,
+			"name" : "Curcan",
+			"en_name" : "Turkey",
+			"foodTypeId" : 1
+		}		
+	], 
+	"foodTypes" : [
+		{
+			"id" : 1,
+			"name" : "Proteine",	
+			"en_name" : "Proteins"
+		},
+		{
+			"id" : 2,
+			"name" :"Legume",
+			"en_name" : "Vegetables"
+			
+		},
+		{
+			"id" : 3,
+			"name" : "Leguminoase",
+			"en_name" : "Legumes"		
+			
+		},
+		{
+			"id" : 4,
+			"name" : "Grasimi/Uleiuri",
+			"en_name" : "Fats/Oils"		
+		},
+		{
+			"id" : 5,
+			"name" : "Condimente",
+			"en_name" : "Spices"	
+		},
+		{
+			"id" : 6,
+			"name" : "Extra",
+			"en_name" : "Extras"			
+		}		
+	]
+}
