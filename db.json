@@ -235,10 +235,121 @@
 			"name" : "Fasole rosie",
 			"en_name" : "Red Beans",
 			"foodTypeId" : 3
-		}
-		
-		
-		
+		},
+		{
+			"id" : 40,
+			"name" : "Unt de arahide",
+			"en_name" : "Nut Butters",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 41,
+			"name" : "Lapte de cocos",
+			"en_name" : "Coconut milk",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 42,
+			"name" : "Sos de peste",
+			"en_name" : "Fish Sauce",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 43,
+			"name" : "Otet din ardei iute",
+			"en_name" : "Hot Pepper Vinegar",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 44,
+			"name" : "Sos iute",
+			"en_name" : "Hot Sauce",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 45,
+			"name" : "Hummus",
+			"en_name" : "Hummus",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 46,
+			"name" : "Suc de lamaie",
+			"en_name" : "Lemon Juice",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 47,
+			"name" : "Suc de lime",
+			"en_name" : "Lime Juice",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 48,
+			"name" : "Maioneza(de casa)",
+			"en_name" : "Mayo(homemade)",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 49,
+			"name" : "Mustar",
+			"en_name" : "Mustard",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 50,
+			"name" : "Sos de scoici",
+			"en_name" : "Oyster Sauce",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 51,
+			"name" : "Pesto",
+			"en_name" : "Pesto",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 52,
+			"name" : "Salsa (rosu sau verde)",
+			"en_name" : "Salsa (red or verde)",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 53,
+			"name" : "Sos de soia",
+			"en_name" : "Soy Sauce",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 54,
+			"name" : "Sos Thai Chili",
+			"en_name" : "Thai Chili Sauce",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 55,
+			"name" : "Tamari (fara grau)",
+			"en_name" : "Tamari (wheat free)",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 56,
+			"name" : "Otet",
+			"en_name" : "Vinegar",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 57,
+			"name" : "Supa de pui",
+			"en_name" : "Chicken broth",
+			"foodTypeId" : 6
+		},
+		{
+			"id" : 58,
+			"name" : "Supa de vita",
+			"en_name" : "Beef broth",
+			"foodTypeId" : 6
+		}			
 	], 
 	"foodTypes" : [
 		{
